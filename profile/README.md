@@ -7,11 +7,7 @@ These testimonies are intended as a tool for discussion and reflection during su
 https://hivpositivevoices.substack.com/s/english
 
 <p align="middle">
-    <a href="https://hivpositivevoices.substack.com/s/english" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/english.png" alt="HIV+ Positive Voices: Worldwide [English] podcast album art" style="width:20%"></a>
-<a href="https://hivpositivevoices.substack.com/s/bemba" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/bemba.png" alt="HIV+ Positive Voices: Worldwide [Bemba] podcast album art" style="width:20%"></a>
-  <a href="https://hivpositivevoices.substack.com/s/mambwe" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/mambwe.png" alt="HIV+ Positive Voices: Worldwide [Mambwe] podcast album art" style="width:20%"></a>
-  <a href="https://hivpositivevoices.substack.com/s/tonga" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/tonga.png" alt="HIV+ Positive Voices: Worldwide [Tonga] podcast album art" style="width:20%"></a>
-  <a href="https://hivpositivevoices.substack.com/s/sesotho" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/sesotho.png" alt="HIV+ Positive Voices: Worldwide [Sesotho] podcast album art" style="width:20%"></a>
+<a href="https://hivpositivevoices.substack.com/s/english" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/english.png" alt="HIV+ Positive Voices: Worldwide [English] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/bemba" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/bemba.png" alt="HIV+ Positive Voices: Worldwide [Bemba] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/mambwe" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/mambwe.png" alt="HIV+ Positive Voices: Worldwide [Mambwe] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/tonga" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/tonga.png" alt="HIV+ Positive Voices: Worldwide [Tonga] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/sesotho" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/sesotho.png" alt="HIV+ Positive Voices: Worldwide [Sesotho] podcast album art" style="width:20%"></a>
 </p>
 
 This growing archive also serves to honor the stories, memories, and lives of our friends.
