@@ -1,4 +1,4 @@
-# HIV Positive Voices: Worldwide
+# HIV+ Positive Voices: Worldwide
 
 ## About
 "HIV+ Positive Voices: Worldwide" is an unofficial podcast of Peace Corps Volunteers working with Positive Living support groups.
