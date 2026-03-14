@@ -1,10 +1,10 @@
 # HIV+ Positive Voices: Worldwide
 
-## About
+### About
 "HIV+ Positive Voices: Worldwide" is an unofficial podcast by US Peace Corps Volunteers working with Positive Living support groups.
 
 These testimonies are intended as a tool for discussion and reflection during support group meetings of people living with HIV/AIDS.
-https://hivpositivevoices.substack.com/s/english
+https://HIVpositiveVoices.substack.com
 
 <p align="middle">
 <a href="https://hivpositivevoices.substack.com/s/english" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/english.png" alt="HIV+ Positive Voices: Worldwide [English] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/bemba" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/bemba.png" alt="HIV+ Positive Voices: Worldwide [Bemba] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/mambwe" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/mambwe.png" alt="HIV+ Positive Voices: Worldwide [Mambwe] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/tonga" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/tonga.png" alt="HIV+ Positive Voices: Worldwide [Tonga] podcast album art" style="width:20%"></a><a href="https://hivpositivevoices.substack.com/s/sesotho" target="_blank"><img src="https://hivpositivevoices.github.io/src/images/sesotho.png" alt="HIV+ Positive Voices: Worldwide [Sesotho] podcast album art" style="width:20%"></a>
@@ -16,9 +16,9 @@ PCVs may use the English translation following each testimony (and written in ea
 
 We would also encourage you to record new testimonies with your own support groups for inclusion here. Stories may be anonymous or public, of course.
 
-## Contact: HIVpositiveVoices+substack@simplelogin.com.
+### Contact: HIVpositiveVoices+substack@simplelogin.com.
 
-## Help us spread the show
+### Help us spread the show
 
 Please post this flyer in your Peace Corps Provincial House or share with your CAT crew or country admin staff.
 
