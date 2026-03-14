@@ -18,12 +18,12 @@ We would also encourage you to record new testimonies with your own support grou
 
 ### Contact: HIVpositiveVoices+substack@simplelogin.com.
 
-### Help us spread the show
+### Help us spread word of the show
 
-Please post this flyer in your Peace Corps Provincial House or share with your CAT crew or country admin staff.
+PCVs, please post this flyer in your Peace Corps Provincial House or share with your CAT crew or country admin staff.
 
 [.PDF (A4)](https://drive.google.com/file/d/1xAASSQ7lU2G96pJlaUJdDZ6aEdsxuJ4P/view?usp=sharing)
 
 Thank you.
 
-Consider subscribing to both your local language feed and the general English feed, as the English feed will have every episode available for translation. Pending translation availability, local language feeds may experience delays in featuring every episode.
+Consider subscribing to both your local language feed and the general [English feed](https://hivpositivevoices.substack.com/s/english), as the English feed will have every episode available for translation. Pending translation availability, local language feeds may experience delays in featuring every episode.
